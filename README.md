@@ -1,15 +1,15 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## Normal student learing in CQUT
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+Still working hard to be better
 
-### **社交主页：**
+### **social homepage：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+-   <a href="https://www.douyin.com/user/self"><code><img height="10" width="40" src="https://img.zcool.cn/community/01a2415ae121b5a801214a61dae070.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
 
 ### **技术栈:**
 
